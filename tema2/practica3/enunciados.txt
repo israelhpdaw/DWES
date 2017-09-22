@@ -1,0 +1,30 @@
+DESARROLLO WEB EN ENTORNO SERVIDOR
+
+2ºDAW(17/18)                                                	PHP_02
+-----------------------------------------------------------
+
+1.- Cree un fichero que contenga las etiquetas HtML mínimas para mostrar un mensaje de texto (<html>, <head>, <title> y <body>) y guárdelo con extensión PHP. Posiciónelo en el directorio correspondiente del servidor web. A continuación escriba una sentencia echo o print que permita mostrar por pantalla el mensaje “Este es el resultado correcto del primer ejercicio”. Abra un navegador y compruebe el resultado. Si obtiene una página en blanco, verifique que ha utilizado las etiquetas de apertura y cierre de PHP correctamente y que la sentencia que ha escrito termina en “;”.
+
+2.- Cree un fichero PHP que muestre por pantalla el mensaje “Segundo ejercicio: visualización del contenido de variables”. A continuación, defina dos variables $nombre y $edad y asígnele un valor correcto. Después, cree una sentencia que muestre un mensaje que contenga dichas variables similar a “Mi nombre es valor_de_la_ variable_$nombre y mi edad es valor_de_la_variable_$edad”. inserte un comentario encima de cada variable explicando el significado del valor que almacenará cada variable.
+
+3.- Cree un fichero PHP que permita comprobar las capacidades aritméticas de PHP. Para ello, cree dos variables $operador1 y $operador2. Asígnele los valores 13 y 4, respectivamente. Defina una tercera variable $resultado y escriba un código que permita hacer las siguientes operaciones:
+13 – 4
+13 + 4
+13 * 4
+13 / 4
+13 % 4
+
+4.- Cree un fichero de PHP que permita conocer toda la información de una variable (utilice la función var_ dump()), de tal forma que pueda obtener una salida por pantalla similar a la siguiente:
+Información de la variable “nombre”: string (4) “Juan”
+Contenido de la variable: Juan
+Después de asignarle un valor nulo: NULL
+
+5.- Cree un fichero PHP en el que se asignen los siguientes valores a una variable $temporal: “Juan”; 3,14; false; 3; null. Muestre por pantalla el tipo que se le asigna a la variable utilizando la función gettype().
+
+6.- Realiza un programa que calcule la media de tres números.
+
+7.- Realizar un programa que intercambie el valor de dos variables.
+
+8.- Realizar el ordinograma de un programa que desglose una cantidad de euros en billetes de 10 y 5 y monedas de 1 euro.
+
+9.- Busca información sobre las distintas funciones de las que se dispone en php para realizar operaciones.
