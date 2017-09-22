@@ -1,1 +1,53 @@
+DESARROLLO(WEB(EN(ENTORNO(SERVIDOR
+2oDAW(17/18) PHP_02
 
+1) Programa(que(declara(una(variable(que(va(almacenar(el(precio(de(una(vivienda,(
+después(nos(visualiza(dicho(precio(en(Euros(y(en(pesetas.
+
+2) Programa(que(declara(e(inicializa(dos(variables: altura(y(base(de(un( triángulo,(
+asigna(a(altura(el(valor(12.2(y((a(la(base(el(valor(10(y(luego(nos(visualiza(el(área(
+correspondiente.
+
+3) Realizar(un(programa(que(declare(una(variable(precio(,(asígnale(el(valor(62.5(y(
+visualice(:(
+a)(El(precio(sin(IVA(es:(...(
+b)(El(precio(con(el(16%(de(IVA(es:(....(
+c)(El(precio(después(de(aplicar(un(10%(de(descuento es:(....
+
+4) Programa( que( declare( una( variable( para( almacenar( el( radio( de( un( cilindro( y(
+otra( que( permita( almacenar( su( altura.( ( Asigna( a( ambas( variables( un( valor( y(
+visualiza(luego:(
+a)(Su(área(lateral(
+b)(Su(volumen
+
+5) Obtén(la(fecha(actual(con(formato(día;mes;año.
+
+6) Haz(un(script(que(reste(un(número(de(días a(la(fecha.
+
+7) Haz(un(script(en(php(que(compruebe(si(una(fecha(dada(es(correcta(o(no(e(
+imprima(en(pantalla(un(mensaje.
+
+8) Haz(un(script(que(calcule(el(número(de(días(transcurridos(desde(una(fecha(dada(
+a(otra.
+
+9) Haz(un(script(que(sume(un(número(de(horas(a(una(fecha.
+
+10) Comprueba(por(pantalla(el(resultado(de(las(siguientes(comprobaciones(si(a(las(
+variables(se(les(asignan(los(valores(8,(3(y(3.
+
+($a==$b)
+($a!=$b)
+($a<$b)
+
+($a>$b)
+($a>=$c)
+($a<=$c)
+
+11) Haz(lo(mismo(que(en(el(ejercicio(anterior(pero(con(las(instrucciones(y(tomando(
+los(mismos(valores(anteriores:
+($a==$b)&&($c>$b)
+($a==$b)||($b==$c)
+($b<=$c)
+
+12) Hacer(un(programa(que(muestre(en(pantalla(información(de(PHP(con(la(función(
+phpinfo().(Muestre(la(información(centrada(horizontalmente(en la(pantalla.
